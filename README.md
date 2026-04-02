@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey there, I’m Arihant 👋  
 
-<!--
-**arihantjain2005/arihantjain2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Started with *"Hello World."*  
+> Stayed for the debugging—and the curiosity to understand how systems actually work.
 
-Here are some ideas to get you started:
+💡 I’m a Computer Science student who enjoys building **scalable applications** and automating things that *shouldn’t be done manually*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ About Me  
+- 💻 Working with: **C++ | Java | Python | MERN**  
+- ⚙️ Experience in **full-stack development & automation systems**  
+- 🤖 Currently learning **AI, intelligent workflows & cloud tech**  
+- 🧠 Core strengths: **DSA, OOP & system design**  
+
+---
+
+### 🚀 Mindset  
+✨ I like turning **complex problems** into **simple, working solutions**  
+⚡ Always curious. Always building. Always improving.
